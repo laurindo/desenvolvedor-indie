@@ -1,4 +1,3 @@
-# Treinamento HTML5, CSS e JS
+# Desenvolvedor Indie e seus desafios
 
-Aprenda a desenvolver para web de forma performática
-http://laurindo.github.io/html5-css-js
+Apresentação sobre como ser um desenvolvedor indie e seus desafios
